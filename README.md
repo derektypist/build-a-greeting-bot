@@ -1,6 +1,6 @@
 # Build a Greeting Bot
 
-Learn JavaScript Fundamentals by building a greeting bot.  Learn about variables `let`, `const`, `console.log` and basic string usage.
+Learn JavaScript Fundamentals by building a greeting bot.  Learn about variables, `let`, `const`, `console.log` and basic string usage.
 
 ## Technologies
 
